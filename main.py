@@ -1,3 +1,4 @@
+
 import os
 import json
 import re
@@ -28,7 +29,7 @@ else:
 
 # —— 3. 全局状态 —— #
 last_code = None
-PHONE_NUMBER = "+18186572800"
+PHONE_NUMBER = "+1xxxxxxxxxx"
 
 # —— 4. FastAPI 应用 —— #
 api = FastAPI()
